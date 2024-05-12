@@ -1,4 +1,4 @@
-
+![Alt Text](screenshot.jpeg)
 
 # Keyboard layout and time
 ## 1.  Setting up keyboard layout (Latin American distribution):
