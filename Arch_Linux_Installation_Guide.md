@@ -1,4 +1,8 @@
-![Alt Text](screenshot.jpeg)
+
+<div align="center">
+  <img src="screenshot.jpg" width="800" />
+</div>
+
 
 # Keyboard layout and time
 ## 1.  Setting up keyboard layout (Latin American distribution):
