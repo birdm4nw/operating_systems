@@ -5,3 +5,5 @@ Here you'll find interesting documentation about different operating systems pro
 <div align="center">
   <img src="https://github.com/birdm4nw/operating_systems/blob/main/oss.jpg" width="800" />
 </div>
+
+**Author:** @birdm4nw
