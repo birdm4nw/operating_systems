@@ -1,10 +1,3 @@
-# operating_systems
-
-Here you'll find interesting documentation about different operating systems procedures and issues related to the subject!
-
-<div align="center">
-  <img src="https://github.com/birdm4nw/operating_systems/blob/main/oss.jpg" width="800" />
-</div>
 <p align="center">
  
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
@@ -19,4 +12,8 @@ Here you'll find interesting documentation about different operating systems pro
 
 <p style="display: inline-block;" align="center">
   
+# Operating_systems
+
+Here you'll find interesting documentation about different operating systems procedures and issues related to the subject!
+
 **Author:** @birdm4nw
